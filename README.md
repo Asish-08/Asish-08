@@ -71,8 +71,6 @@ Uncomment this section once you have a certification to list.
 
 <!-- Duplicate this block for a second role if needed. Keep it to 2–3 bullets each. -->
 
----
-
 
 ---
 
@@ -84,10 +82,10 @@ Uncomment this section once you have a certification to list.
 </p>
 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asish-08&hide_border=true&background=00000000&stroke=768390&ring=6E7681&fire=6E7681&currStreakLabel=6E7681&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390&titleColor=6E7681" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asish-08&hide_border=true&background=00000000&stroke=2EA043&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=57606A&currStreakNum=3FB950&sideNums=3FB950&dates=768390&titleColor=2EA043" alt="GitHub streak" />
+</p>
 </p>
 
----
 ---
 
 ## LeetCode
