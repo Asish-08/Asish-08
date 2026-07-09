@@ -64,7 +64,7 @@ Uncomment this section once you have a certification to list.
 - Tuned distributed processing across a multi-node cluster by repartitioning data and refactoring Hive queries, improving throughput by 30% while managing a 2+ TB/day data lake with zero data loss.
 - Owned end-to-end data validation and ingestion workflows, developing reliable batch processing pipelines and quality checks to support production reporting and analytics systems.
 
-**Software Engineer** — ASU (My Ascend AI) · [Start – End]
+**Software Engineer** — ASU (My Ascend AI) · Jul 2025 – Jul 2026
 - Built backend workflows for an AI-assisted conversation-starter feature, managing prompt generation, model selection, and cache TTL configurations through feature flags for flexible LLM behavior.
 - Eliminated duplicate membership writes under concurrent load by identifying race conditions and implementing idempotent upserts with database-level unique constraints.
 - Owned feature development across backend workflows, database operations, and production reliability improvements in a fast-paced startup environment.
@@ -94,7 +94,7 @@ Uncomment this section once you have a certification to list.
 </p>
 
 ## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=flat-square&logo=googlechrome&logoColor=white)](https://asish-addanki.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asish.addanki@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asish-addanki/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Asish0008)
+[![Portfolio web page](https://img.shields.io/badge/Portfolio-4B5563?style=flat-square&logo=googlechrome&logoColor=white)](https://asish-addanki.netlify.app/)
+[![twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Asish0008)
