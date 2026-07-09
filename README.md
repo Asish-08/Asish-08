@@ -7,24 +7,9 @@ I build backend and data systems in Python — REST APIs, ETL pipelines, and ML/
 Currently open to entry-level **SWE / SDE / Data Engineering** roles. Always happy to talk shop about data pipelines, backend design, or a good side project.
 
 <!--[![Resume](https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readthedocs&logoColor=white)](RESUME_URL)-->
-[![Email](https://img.shields.io/badge/Email-4B5563?style=flat-square&logo=gmail&logoColor=white)](mailto:asish.addanki@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asish.addanki@gmail.com)
 
----
 
-## Experience
-**Software Engineer (Data)** — Infosys · Sep 2021 – Jul 2023
-- Built and migrated Hadoop/Hive ETL pipelines to consolidate two banks' credit-card transaction data into a merged system, validating sources against business rules to maintain reliable historical data for 4 downstream teams.
-- Tuned distributed processing across a multi-node cluster by repartitioning data and refactoring Hive queries, improving throughput by 30% while managing a 2+ TB/day data lake with zero data loss.
-- Owned end-to-end data validation and ingestion workflows, developing reliable batch processing pipelines and quality checks to support production reporting and analytics systems.
-
-**Software Engineer** — ASU (My Ascend AI) · [Start – End]
-- Built backend workflows for an AI-assisted conversation-starter feature, managing prompt generation, model selection, and cache TTL configurations through feature flags for flexible LLM behavior.
-- Eliminated duplicate membership writes under concurrent load by identifying race conditions and implementing idempotent upserts with database-level unique constraints.
-- Owned feature development across backend workflows, database operations, and production reliability improvements in a fast-paced startup environment.
-
-<!-- Duplicate this block for a second role if needed. Keep it to 2–3 bullets each. -->
-
----
 
 ## Currently Building
 
@@ -70,6 +55,24 @@ Currently open to entry-level **SWE / SDE / Data Engineering** roles. Always hap
 
 Uncomment this section once you have a certification to list.
 -->
+
+---
+
+## Experience
+**Software Engineer (Data)** — Infosys · Sep 2021 – Jul 2023
+- Built and migrated Hadoop/Hive ETL pipelines to consolidate two banks' credit-card transaction data into a merged system, validating sources against business rules to maintain reliable historical data for 4 downstream teams.
+- Tuned distributed processing across a multi-node cluster by repartitioning data and refactoring Hive queries, improving throughput by 30% while managing a 2+ TB/day data lake with zero data loss.
+- Owned end-to-end data validation and ingestion workflows, developing reliable batch processing pipelines and quality checks to support production reporting and analytics systems.
+
+**Software Engineer** — ASU (My Ascend AI) · [Start – End]
+- Built backend workflows for an AI-assisted conversation-starter feature, managing prompt generation, model selection, and cache TTL configurations through feature flags for flexible LLM behavior.
+- Eliminated duplicate membership writes under concurrent load by identifying race conditions and implementing idempotent upserts with database-level unique constraints.
+- Owned feature development across backend workflows, database operations, and production reliability improvements in a fast-paced startup environment.
+
+<!-- Duplicate this block for a second role if needed. Keep it to 2–3 bullets each. -->
+
+---
+
 
 ---
 
