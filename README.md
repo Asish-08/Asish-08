@@ -6,6 +6,32 @@ I build backend and data systems in Python — REST APIs, ETL pipelines, and ML/
 
 Currently open to entry-level **SWE / SDE / Data Engineering** roles. Always happy to talk shop about data pipelines, backend design, or a good side project.
 
+<!--[![Resume](https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readthedocs&logoColor=white)](RESUME_URL)-->
+[![Email](https://img.shields.io/badge/Email-4B5563?style=flat-square&logo=gmail&logoColor=white)](mailto:asish.addanki@gmail.com)
+
+---
+
+## Experience
+**Software Engineer (Data)** — Infosys · Sep 2021 – Jul 2023
+- Built and migrated Hadoop/Hive ETL pipelines to consolidate two banks' credit-card transaction data into a merged system, validating sources against business rules to maintain reliable historical data for 4 downstream teams.
+- Tuned distributed processing across a multi-node cluster by repartitioning data and refactoring Hive queries, improving throughput by 30% while managing a 2+ TB/day data lake with zero data loss.
+- Owned end-to-end data validation and ingestion workflows, developing reliable batch processing pipelines and quality checks to support production reporting and analytics systems.
+
+**Software Engineer** — ASU (My Ascend AI) · [Start – End]
+- Built backend workflows for an AI-assisted conversation-starter feature, managing prompt generation, model selection, and cache TTL configurations through feature flags for flexible LLM behavior.
+- Eliminated duplicate membership writes under concurrent load by identifying race conditions and implementing idempotent upserts with database-level unique constraints.
+- Owned feature development across backend workflows, database operations, and production reliability improvements in a fast-paced startup environment.
+
+<!-- Duplicate this block for a second role if needed. Keep it to 2–3 bullets each. -->
+
+---
+
+## Currently Building
+
+- **RAG Codebase Assistant** — hybrid retrieval over a codebase with reranking, citations, and an evaluation harness.
+- **Conversational Data Agent** — natural-language querying over structured data using LLM function-calling and NL-to-SQL.
+- **TaskPulse** — serverless task manager on AWS (FastAPI + Lambda, PostgreSQL/RDS, React, CI/CD via GitHub Actions).
+
 ---
 
 ## Tech Stack
@@ -36,20 +62,35 @@ Currently open to entry-level **SWE / SDE / Data Engineering** roles. Always hap
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+<!--
+## Certifications
+
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+- **[Certification name]** — [Issuer], [Year]
+
+Uncomment this section once you have a certification to list.
+-->
+
 ---
 
 ## GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asish-08&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=768390&icon_color=768390" height="165" alt="Asish's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asish-08&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=768390" height="165" alt="Top languages" />
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asish-08&hide_border=true&background=00000000&stroke=768390&ring=6E7681&fire=6E7681&currStreakLabel=6E7681&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390&titleColor=6E7681" alt="GitHub streak" />
 </p>
 
 ---
+---
+
+## LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Asish_Addanki?ext=heatmap&theme=light&border=0&radius=8" alt="LeetCode stats" />
+</p>
 
 ## Connect
 
