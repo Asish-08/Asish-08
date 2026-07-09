@@ -2,38 +2,39 @@
 
 **Software / Data Engineer** · MS in Computer Science, Arizona State University
 
-Building data and ML systems with Python, SQL, and distributed tools.
-Currently open to entry-level **SWE / SDE / Data Engineering** roles.
+I build backend and data systems in Python — REST APIs, ETL pipelines, and ML/data workflows — and enjoy taking a project from a rough idea all the way to something deployed and running on AWS. My background spans distributed data processing with Hadoop and Hive, relational database design, and full-stack development, with a growing focus on serverless architecture and applied machine learning.
+
+Currently open to entry-level **SWE / SDE / Data Engineering** roles. Always happy to talk shop about data pipelines, backend design, or a good side project.
 
 ---
 
 ## Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-4B5563?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-4B5563?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4B5563?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4B5563?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Backend & Web**
-![FastAPI](https://img.shields.io/badge/FastAPI-4B5563?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-4B5563?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Data & ML**
-![Pandas](https://img.shields.io/badge/Pandas-4B5563?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4B5563?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-4B5563?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-4B5563?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Data Engineering**
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-4B5563?style=flat-square&logo=apachehadoop&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Hive-4B5563?style=flat-square&logo=apachehive&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
 **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-4B5563?style=flat-square&logo=amazonwebservices&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4B5563?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4B5563?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4B5563?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -50,18 +51,8 @@ Currently open to entry-level **SWE / SDE / Data Engineering** roles.
 
 ---
 
-## Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Pac-Man AI Agent](https://github.com/Asish-08/Pac-Man-Agent-with-Expectimax-Monte-Carlo-Tree-Search) | Intelligent Pac-Man agents using Expectimax and Monte Carlo Tree Search to handle predictable and adaptive ghost behavior. | Python |
-| [GUI Testing Web App](https://github.com/Asish-08/Multi-Page-Web-Application-for-GUI-Testing-Selenium-JUnit-) | Multi-page web app with 20+ interactive UI elements, automated to 100% GUI coverage. | Java, Selenium, JUnit |
-| [Music Recommendation System](https://github.com/Asish-08/Music-Recommendation-System) | Recommendation engine built on user-listening data. | Python, Jupyter |
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=flat-square&logo=googlechrome&logoColor=white)](https://asish-addanki.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B5563?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asish-addanki/)
-[![X](https://img.shields.io/badge/X-4B5563?style=flat-square&logo=x&logoColor=white)](https://x.com/Asish0008)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asish-addanki/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Asish0008)
