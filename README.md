@@ -13,7 +13,7 @@ Currently open to entry-level **SWE / SDE / Data Engineering** roles. Always hap
 
 ## Currently Building
 
-- **RAG Codebase Assistant** — hybrid retrieval over a codebase with reranking, citations, and an evaluation harness.
+<!--- **RAG Codebase Assistant** — hybrid retrieval over a codebase with reranking, citations, and an evaluation harness.-->
 - **Conversational Data Agent** — natural-language querying over structured data using LLM function-calling and NL-to-SQL.
 - **TaskPulse** — serverless task manager on AWS (FastAPI + Lambda, PostgreSQL/RDS, React, CI/CD via GitHub Actions).
 
